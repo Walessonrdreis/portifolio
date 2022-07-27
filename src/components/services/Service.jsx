@@ -1,9 +1,9 @@
 import React,{useContext} from 'react';
 import "./Services.css";
+import Card from "../Card/Card"
 import { themeContext } from '../../Context';
 import Resume from "./resume.pdf";
 import {motion} from "framer-motion";
-import Card from "../Card/Card";
 import HeartEmoji from "../../img/heartemoji.webp";
 import Glasses from "../../img/glasses.webp";
 import Humble from "../../img/humble.webp";
@@ -47,16 +47,43 @@ const Service = () => {
       <Card
         emoji={HeartEmoji}
         heading={"Design"}
-        detail={"Photoshop, Figma"}
+        detail={"Photoshop, Figma, Adobe xd"}
        />
-
       </motion.div>
 
+      {/* second card */}
+      <motion.div
+      initial={{left: "-11rem",top:"12rem"}}
+      whileInView={{left: "-4rem"}}
+      transition={transition}
+      >
+      <Card
+        emoji={Glasses}
+        heading={"Developer"}
+        detail={"Html, Css, JavaScript, React"}
+       />
+      </motion.div>
+
+      {/* 3rd card */}
+      <motion.div
+      initial={{top: "19rem", left: "25rem"}}
+      whileInView={{left: "12rem"}}
+      transition={transition}
+      >
+      <Card
+        emoji={Humble}
+        heading={"UI/UX"}
+        detail={"Lorem ispum dummy text are usually use in section where we need some random text"}
+        color="rgba(252, 166, 31, 0.45)"
+       />
+      </motion.div>
+      <div className="blur sblur2"
+        style={{background: "var(--purple)"}}
+       ></div>
+    </div>
     </div>
 
-    </div>
-
-  )
-}
+  );
+};
 
 export default Service
