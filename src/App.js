@@ -1,8 +1,9 @@
 import "./App.css";
 import {useContext} from "react";
 import {themeContext} from "./Context";
-import Navbar from "./components/Navbar/Navbar"
-import Intro from "./components/Intro/Intro"
+import Navbar from "./components/Navbar/Navbar";
+import Intro from "./components/Intro/Intro";
+import Services from "./components/services/Service";
 
 
 function App(){
@@ -18,6 +19,8 @@ function App(){
     >
     <Navbar />
     <Intro />
+    <Services />
+    
     
 
     </div>
