@@ -2,6 +2,7 @@
   "name": "personal-portifolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Walessonrdreis/portifolio",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@iconscout/react-unicons": "^1.1.6",
