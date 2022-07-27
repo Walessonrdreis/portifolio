@@ -4,6 +4,7 @@ import {themeContext} from "./Context";
 import Navbar from "./components/Navbar/Navbar";
 import Intro from "./components/Intro/Intro";
 import Services from "./components/services/Service";
+import Experience from "./components/Experience/Experience";
 
 
 function App(){
@@ -20,6 +21,7 @@ function App(){
     <Navbar />
     <Intro />
     <Services />
+    <Experience />
     
     
 
