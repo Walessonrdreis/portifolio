@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.6e5643af.css",
-    "main.js": "/portifolio/static/js/main.639a8c9e.js",
+    "main.css": "/portifolio/static/css/main.ba2bba2c.css",
+    "main.js": "/portifolio/static/js/main.d2a23e59.js",
     "static/media/resume.pdf": "/portifolio/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar.webp": "/portifolio/static/media/sidebar.1f582794d3394cde6648.webp",
+    "static/media/ecommerce.webp": "/portifolio/static/media/ecommerce.f93def4a584c9ac1d23e.webp",
     "static/media/glassesimoji.webp": "/portifolio/static/media/glassesimoji.e5ec95b809a1a6c3fe0f.webp",
     "static/media/Gumela Regular.otf": "/portifolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/musicapp.webp": "/portifolio/static/media/musicapp.25fc5585daf045c398fb.webp",
+    "static/media/hoc.webp": "/portifolio/static/media/hoc.3545fc9e6285fb021600.webp",
     "static/media/thumbup.webp": "/portifolio/static/media/thumbup.d2644cbcb7cfdc9757df.webp",
     "static/media/boy.webp": "/portifolio/static/media/boy.2899d95d856305b3d124.webp",
     "static/media/Vector2.webp": "/portifolio/static/media/Vector2.cdd7c1acb78f958d4121.webp",
@@ -22,11 +26,11 @@
     "static/media/Facebook.webp": "/portifolio/static/media/Facebook.704514a06ab408386190.webp",
     "index.html": "/portifolio/index.html",
     "static/media/fiverr.webp": "/portifolio/static/media/fiverr.9b547508d2b030c424d9.webp",
-    "main.6e5643af.css.map": "/portifolio/static/css/main.6e5643af.css.map",
-    "main.639a8c9e.js.map": "/portifolio/static/js/main.639a8c9e.js.map"
+    "main.ba2bba2c.css.map": "/portifolio/static/css/main.ba2bba2c.css.map",
+    "main.d2a23e59.js.map": "/portifolio/static/js/main.d2a23e59.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e5643af.css",
-    "static/js/main.639a8c9e.js"
+    "static/css/main.ba2bba2c.css",
+    "static/js/main.d2a23e59.js"
   ]
 }
