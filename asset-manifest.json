@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.14175cc1.css",
-    "main.js": "/portifolio/static/js/main.1e40e7c5.js",
+    "main.css": "/portifolio/static/css/main.ccb9d7aa.css",
+    "main.js": "/portifolio/static/js/main.65818681.js",
     "static/media/resume.pdf": "/portifolio/static/media/resume.944ae2c2747f86318de8.pdf",
     "static/media/sidebar.webp": "/portifolio/static/media/sidebar.1f582794d3394cde6648.webp",
     "static/media/ecommerce.webp": "/portifolio/static/media/ecommerce.f93def4a584c9ac1d23e.webp",
@@ -22,6 +22,7 @@
     "static/media/humble.webp": "/portifolio/static/media/humble.abd6fb29ce65659efa25.webp",
     "static/media/crown.webp": "/portifolio/static/media/crown.548949e78976d10eb602.webp",
     "static/media/glasses.webp": "/portifolio/static/media/glasses.4ed36df2fbc221631c68.webp",
+    "static/media/wave.webp": "/portifolio/static/media/wave.662ddc5faaac408570bb.webp",
     "static/media/Upwork.webp": "/portifolio/static/media/Upwork.23e0aad1cd9b6471858d.webp",
     "static/media/instagram.webp": "/portifolio/static/media/instagram.afeeccbd594a1c356a79.webp",
     "static/media/amazon.webp": "/portifolio/static/media/amazon.e1af2dcab3cc849fdecb.webp",
@@ -30,11 +31,11 @@
     "static/media/Facebook.webp": "/portifolio/static/media/Facebook.704514a06ab408386190.webp",
     "index.html": "/portifolio/index.html",
     "static/media/fiverr.webp": "/portifolio/static/media/fiverr.9b547508d2b030c424d9.webp",
-    "main.14175cc1.css.map": "/portifolio/static/css/main.14175cc1.css.map",
-    "main.1e40e7c5.js.map": "/portifolio/static/js/main.1e40e7c5.js.map"
+    "main.ccb9d7aa.css.map": "/portifolio/static/css/main.ccb9d7aa.css.map",
+    "main.65818681.js.map": "/portifolio/static/js/main.65818681.js.map"
   },
   "entrypoints": [
-    "static/css/main.14175cc1.css",
-    "static/js/main.1e40e7c5.js"
+    "static/css/main.ccb9d7aa.css",
+    "static/js/main.65818681.js"
   ]
 }
