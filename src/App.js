@@ -6,7 +6,8 @@ import Intro from "./components/Intro/Intro";
 import Services from "./components/services/Service";
 import Experience from "./components/Experience/Experience";
 import Works from "./components/Works/Works";
-import Portfolio from "./components/Portfolio/Portfolio"
+import Portfolio from "./components/Portfolio/Portfolio";
+import Testimonial from "./components/Testimonials/Testimonial";
 
 
 function App(){
@@ -26,6 +27,8 @@ function App(){
     <Experience />
     <Works />
     <Portfolio />
+    <Testimonial />
+
    
     
     
