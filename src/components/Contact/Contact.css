@@ -37,7 +37,11 @@ textarea{
   top: 1rem;
   left: 8rem;
 }
-
+@media screen and (max-width: 1200px) {
+  .contact-form{
+    transform: scale(0.8);
+  }
+}
 @media screen and (max-width: 480px) {
   .contact-form{
       padding: 0;

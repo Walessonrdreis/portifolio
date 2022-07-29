@@ -39,12 +39,28 @@
   cursor: pointer;
 }
 
-.n-buttons{
+.n-button{
   flex: 2;
+  width: 5rem;
 }
 
+@media screen and (max-width:1200px){
+  .n-wrapper{
+    transform: scale(.8)
+  }
+}
 @media screen and (max-width:480px){
+  .n-wrapper{
+    transform: scale(1)
+  }
   .n-list{
     display: none;
+  }
+  .n-button{
+    width:4.1rem;
+    font-size: .9rem;
+    font-weight: bold;
+    
+    
   }
 }

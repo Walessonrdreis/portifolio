@@ -3,7 +3,7 @@ import {useContext} from "react";
 import {themeContext} from "./Context";
 import Navbar from "./components/Navbar/Navbar";
 import Intro from "./components/Intro/Intro";
-import Services from "./components/services/Service";
+import Services from "./components/services/Services";
 import Experience from "./components/Experience/Experience";
 import Works from "./components/Works/Works";
 import Portfolio from "./components/Portfolio/Portfolio";

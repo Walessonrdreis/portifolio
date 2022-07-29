@@ -62,10 +62,22 @@ const Intro = () => {
         transition={transition}
         className="floating-div"
        >
-       <FloatingDiv img={thumbup} text1="HTML/CSS" text2="ReactJs" />
+       <FloatingDiv img={crown} text1="HTML/CSS" text2="ReactJs" />
       </motion.div>
 
-      <div className="blur" style={{background: "rgb(238 210 255"}} >
+       {/* animation */}
+       <motion.div
+          initial={{ left: "9rem", top: "18rem" }}
+          whileInView={{ left: "0rem" }}
+          transition={transition}
+          className="floating-div"
+        >
+          {/* floatinDiv mein change hy dark mode ka */}
+          <FloatingDiv img={thumbup} text1="Java Design" text2="Spring boot" />
+        </motion.div>
+
+
+      <div className="blur" style={{background: "rgb(238, 210, 255)" }}>
       <div className="blur" style={{
         background: "#c1f5ff",
         top:"17rem",

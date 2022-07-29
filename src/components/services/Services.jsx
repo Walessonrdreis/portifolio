@@ -9,7 +9,7 @@ import Glasses from "../../img/glasses.webp";
 import Humble from "../../img/humble.webp";
 
 
-const Service = () => {
+const Services = () => {
   // context 
   const theme = useContext(themeContext);
   const darkMode = theme.state.darkMode;
@@ -77,7 +77,7 @@ const Service = () => {
         color="rgba(252, 166, 31, 0.45)"
        />
       </motion.div>
-      <div className="blur sblur2"
+      <div className="blur s-blur2"
         style={{background: "var(--purple)"}}
        ></div>
     </div>
@@ -86,4 +86,4 @@ const Service = () => {
   );
 };
 
-export default Service
+export default Services;

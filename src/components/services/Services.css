@@ -58,6 +58,11 @@
   left: -18rem;
 }
 
+@media screen and (max-width: 1200px) {
+  .services{
+    transform: scale(0.8);
+  }
+}
 @media screen and (max-width: 480px) {
   .services {
     margin-top: 0;
